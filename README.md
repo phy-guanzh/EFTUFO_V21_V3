@@ -1,6 +1,6 @@
 #   the SMEFT UFO v2_1 and v3 MGcard
 we try to test two different pdf in different version SMEFT UFOmodel, 
-## first  pdf  in run card:
+## first  pdf  in run card( has been annotated):
 320900
 ## another pdf in run card :
 lhapdf = pdlabel ! PDF set
